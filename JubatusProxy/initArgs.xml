@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+    <forwardUrl>http://localhost:8081</forwardUrl>
+    <listenPort>80</listenPort>
+    <override>
+        <messageHeader key="HOST">www.ne.senshu-u.ac.jp</messageHeader>
+    </override>
+</conf>
